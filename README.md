@@ -11,7 +11,7 @@ Author: [@prompthero](prompthero.com)
 First, `git clone` this repo and cd into it:
 
 ```
-git clone https://github.com/prompthero/cog-dreamshaper
+git clone https://github.com/prompthero/cog-epicrealism
 
 cd cog-epicrealism
 ```
